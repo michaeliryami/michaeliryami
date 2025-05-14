@@ -5,7 +5,6 @@
 - <b>Full Stack React-Native Social Media App</b>
   - [Purple Aster](https://github.com/michaeliryami/Purple-Aster)
 
-<h2>✅ Certifications</h2>
 
 
 
