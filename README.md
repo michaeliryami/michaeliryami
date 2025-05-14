@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Engineering Projects:</h2>
 
 - <b>Full Stack React-Native Social Media App</b>
-  - [Purple Aster]
+  - [Purple Aster](https://github.com/michaeliryami/Purple-Aster)
 
 <h2>✅ Certifications</h2>
 
