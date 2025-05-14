@@ -12,7 +12,6 @@
 
 <p align="left">- Full Stack React-Native Social Media App: <a href="https://github.com/michaeliryami/Purple-Aster">Purple Aster</a></p>
 <p align="left">- <b><i>In Progress - </i></b>ML Image Classifier: <a href="https://github.com/michaeliryami/Quad-Image-Classifier">Quad Image Classifier</a></p>
-###
 
 <h2 align="left">Languages and Technologies</h2>
 
