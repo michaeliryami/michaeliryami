@@ -1,4 +1,4 @@
-<h1>Hi, I'm Michael! <br/><a href="https://github.com/michaeliryami">Programmer</a></h1>
+<h1>Hi, I'm Michael! <br/><h2><a href="https://www.linkedin.com/in/michael-iryami-359698330/">Linkedin</a></h2></h1>
 
 <h2>👨‍💻 Software Engineering Projects:</h2>
 
@@ -8,11 +8,7 @@
 
 
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-
-
-[linkedin]: https://www.linkedin.com/in/michael-iryami-359698330/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
