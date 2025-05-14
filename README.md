@@ -1,6 +1,6 @@
 <h1>Hi, I'm Michael! <br/><a href="https://github.com/michaeliryami">Programmer</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Software Engineering Projects:</h2>
 
 - <b>Full Stack React-Native Social Media App</b>
   - [Purple Aster]
