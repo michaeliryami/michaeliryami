@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I am a computer science student at the University of Michigan. I am from the New York Metropolitan area. 
 
 
